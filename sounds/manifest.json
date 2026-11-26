@@ -1,0 +1,2196 @@
+{
+ "drums": {
+  "kick_ac": {
+   "file": "drums/kick_ac.wav",
+   "dur": 0.193
+  },
+  "kick_ac2": {
+   "file": "drums/kick_ac2.wav",
+   "dur": 0.385
+  },
+  "kick_sub": {
+   "file": "drums/kick_sub.wav",
+   "dur": 0.398
+  },
+  "kick_subby": {
+   "file": "drums/kick_subby.wav",
+   "dur": 0.276
+  },
+  "kick_short": {
+   "file": "drums/kick_short.wav",
+   "dur": 0.145
+  },
+  "kick_dw": {
+   "file": "drums/kick_dw.wav",
+   "dur": 0.273
+  },
+  "kick_vegas": {
+   "file": "drums/kick_vegas.wav",
+   "dur": 0.8
+  },
+  "kick_dnb": {
+   "file": "drums/kick_dnb.wav",
+   "dur": 0.227
+  },
+  "snare_dnb": {
+   "file": "drums/snare_dnb.wav",
+   "dur": 0.488
+  },
+  "snare_punch": {
+   "file": "drums/snare_punch.wav",
+   "dur": 0.732
+  },
+  "snare_80s": {
+   "file": "drums/snare_80s.wav",
+   "dur": 0.67
+  },
+  "snare_ppu": {
+   "file": "drums/snare_ppu.wav",
+   "dur": 0.203
+  },
+  "snare_tight": {
+   "file": "drums/snare_tight.wav",
+   "dur": 0.302
+  },
+  "snare_v1": {
+   "file": "drums/snare_v1.wav",
+   "dur": 0.7
+  },
+  "ghost_v1": {
+   "file": "drums/ghost_v1.wav",
+   "dur": 0.4
+  },
+  "snare_v2": {
+   "file": "drums/snare_v2.wav",
+   "dur": 0.7
+  },
+  "ghost_v2": {
+   "file": "drums/ghost_v2.wav",
+   "dur": 0.4
+  },
+  "snare_v3": {
+   "file": "drums/snare_v3.wav",
+   "dur": 0.7
+  },
+  "rim_v3": {
+   "file": "drums/rim_v3.wav",
+   "dur": 0.6
+  },
+  "xstick_v3": {
+   "file": "drums/xstick_v3.wav",
+   "dur": 0.4
+  },
+  "ghost_v3": {
+   "file": "drums/ghost_v3.wav",
+   "dur": 0.4
+  },
+  "rim_pj": {
+   "file": "drums/rim_pj.wav",
+   "dur": 0.105
+  },
+  "rim_ho": {
+   "file": "drums/rim_ho.wav",
+   "dur": 0.5
+  },
+  "rim_sweet": {
+   "file": "drums/rim_sweet.wav",
+   "dur": 0.5
+  },
+  "hat_c": {
+   "file": "drums/hat_c.wav",
+   "dur": 0.35
+  },
+  "hat_c_soft": {
+   "file": "drums/hat_c_soft.wav",
+   "dur": 0.3
+  },
+  "hat_pedal": {
+   "file": "drums/hat_pedal.wav",
+   "dur": 0.3
+  },
+  "hat_o": {
+   "file": "drums/hat_o.wav",
+   "dur": 1.6
+  },
+  "hat_loose": {
+   "file": "drums/hat_loose.wav",
+   "dur": 0.764
+  },
+  "hat_zil": {
+   "file": "drums/hat_zil.wav",
+   "dur": 0.271
+  },
+  "hat_tf": {
+   "file": "drums/hat_tf.wav",
+   "dur": 0.127
+  },
+  "hat_oc": {
+   "file": "drums/hat_oc.wav",
+   "dur": 0.612
+  },
+  "ride_bell": {
+   "file": "drums/ride_bell.wav",
+   "dur": 2.2
+  },
+  "ride_sizzle": {
+   "file": "drums/ride_sizzle.wav",
+   "dur": 2.6
+  },
+  "crash_b": {
+   "file": "drums/crash_b.wav",
+   "dur": 3.2
+  },
+  "crash_sav": {
+   "file": "drums/crash_sav.wav",
+   "dur": 3.2
+  },
+  "crash_short": {
+   "file": "drums/crash_short.wav",
+   "dur": 1.4
+  },
+  "clap": {
+   "file": "drums/clap.wav",
+   "dur": 0.442
+  },
+  "clap_solo": {
+   "file": "drums/clap_solo.wav",
+   "dur": 0.214
+  },
+  "shaker": {
+   "file": "drums/shaker.wav",
+   "dur": 0.4
+  },
+  "shaker_dbl": {
+   "file": "drums/shaker_dbl.wav",
+   "dur": 0.265
+  },
+  "tamb": {
+   "file": "drums/tamb.wav",
+   "dur": 0.7
+  },
+  "bongo": {
+   "file": "drums/bongo.wav",
+   "dur": 0.6
+  },
+  "conga": {
+   "file": "drums/conga.wav",
+   "dur": 0.6
+  },
+  "cowbell": {
+   "file": "drums/cowbell.wav",
+   "dur": 0.6
+  },
+  "claves": {
+   "file": "drums/claves.wav",
+   "dur": 0.6
+  },
+  "roll_techno": {
+   "file": "drums/roll_techno.wav",
+   "dur": 2.468
+  },
+  "roll_buzz": {
+   "file": "drums/roll_buzz.wav",
+   "dur": 2.0
+  },
+  "revcrash": {
+   "file": "drums/revcrash.wav",
+   "dur": 3.058
+  },
+  "revcrash2": {
+   "file": "drums/revcrash2.wav",
+   "dur": 2.346
+  }
+ },
+ "breaks": {
+  "amen165": {
+   "file": "breaks/amen165.wav",
+   "bpm": 165.0,
+   "bars": 4,
+   "slices": [
+    {
+     "t": 0.0001,
+     "len": 0.3615,
+     "step": 0,
+     "label": "K"
+    },
+    {
+     "t": 0.3616,
+     "len": 0.2722,
+     "step": 4,
+     "label": "S"
+    },
+    {
+     "t": 0.6338,
+     "len": 0.0609,
+     "step": 7,
+     "label": "K"
+    },
+    {
+     "t": 0.6947,
+     "len": 0.3942,
+     "step": 8,
+     "label": "K"
+    },
+    {
+     "t": 1.0889,
+     "len": 0.7271,
+     "step": 12,
+     "label": "S"
+    },
+    {
+     "t": 1.816,
+     "len": 0.3629,
+     "step": 20,
+     "label": "S"
+    },
+    {
+     "t": 2.1789,
+     "len": 0.1824,
+     "step": 24,
+     "label": "S"
+    },
+    {
+     "t": 2.3613,
+     "len": 0.3636,
+     "step": 26,
+     "label": "S"
+    }
+   ]
+  },
+  "think": {
+   "file": "breaks/think.wav",
+   "bpm": 113.56,
+   "bars": 2,
+   "slices": [
+    {
+     "t": 0.0079,
+     "len": 0.2698,
+     "step": 0,
+     "label": "K"
+    },
+    {
+     "t": 0.2778,
+     "len": 0.2567,
+     "step": 2,
+     "label": "H"
+    },
+    {
+     "t": 0.5344,
+     "len": 1.038,
+     "step": 4,
+     "label": "S"
+    },
+    {
+     "t": 1.5725,
+     "len": 0.5394,
+     "step": 12,
+     "label": "S"
+    },
+    {
+     "t": 2.1119,
+     "len": 0.0966,
+     "step": 16,
+     "label": "S"
+    },
+    {
+     "t": 2.2085,
+     "len": 0.4312,
+     "step": 17,
+     "label": "K"
+    },
+    {
+     "t": 2.6397,
+     "len": 1.038,
+     "step": 20,
+     "label": "S"
+    },
+    {
+     "t": 3.6778,
+     "len": 0.5284,
+     "step": 28,
+     "label": "S"
+    }
+   ]
+  },
+  "apache_half": {
+   "file": "breaks/apache_half.wav",
+   "bpm": 169.79,
+   "bars": 4,
+   "slices": [
+    {
+     "t": 0.0014,
+     "len": 0.7068,
+     "step": 0,
+     "label": "K"
+    },
+    {
+     "t": 0.7171,
+     "len": 0.3579,
+     "step": 8,
+     "label": "S"
+    },
+    {
+     "t": 1.0749,
+     "len": 0.1718,
+     "step": 12,
+     "label": "H"
+    },
+    {
+     "t": 1.2468,
+     "len": 0.3579,
+     "step": 14,
+     "label": "S"
+    },
+    {
+     "t": 1.6046,
+     "len": 0.1583,
+     "step": 18,
+     "label": "H"
+    },
+    {
+     "t": 1.7629,
+     "len": 0.1904,
+     "step": 20,
+     "label": "K"
+    },
+    {
+     "t": 1.9534,
+     "len": 0.184,
+     "step": 22,
+     "label": "K"
+    },
+    {
+     "t": 2.1374,
+     "len": 0.3534,
+     "step": 24,
+     "label": "S"
+    }
+   ]
+  },
+  "roller175": {
+   "file": "breaks/roller175.wav",
+   "bpm": 175.0,
+   "bars": 4,
+   "slices": [
+    {
+     "t": 0.0,
+     "len": 0.0492,
+     "step": 0,
+     "label": "S"
+    },
+    {
+     "t": 0.0492,
+     "len": 0.4622,
+     "step": 1,
+     "label": "K"
+    },
+    {
+     "t": 0.5114,
+     "len": 0.4294,
+     "step": 6,
+     "label": "S"
+    },
+    {
+     "t": 0.9408,
+     "len": 0.0857,
+     "step": 11,
+     "label": "K"
+    },
+    {
+     "t": 1.0265,
+     "len": 0.6857,
+     "step": 12,
+     "label": "S"
+    },
+    {
+     "t": 1.8829,
+     "len": 0.3429,
+     "step": 22,
+     "label": "S"
+    },
+    {
+     "t": 2.2257,
+     "len": 0.0734,
+     "step": 26,
+     "label": "S"
+    },
+    {
+     "t": 2.2991,
+     "len": 0.3429,
+     "step": 27,
+     "label": "K"
+    }
+   ]
+  },
+  "neuro174": {
+   "file": "breaks/neuro174.wav",
+   "bpm": 174.0,
+   "bars": 2,
+   "slices": [
+    {
+     "t": 0.0033,
+     "len": 0.1667,
+     "step": 0,
+     "label": "S"
+    },
+    {
+     "t": 0.17,
+     "len": 0.6894,
+     "step": 2,
+     "label": "H"
+    },
+    {
+     "t": 0.8594,
+     "len": 0.5173,
+     "step": 10,
+     "label": "S"
+    },
+    {
+     "t": 1.3766,
+     "len": 0.1727,
+     "step": 16,
+     "label": "S"
+    },
+    {
+     "t": 1.5493,
+     "len": 0.6894,
+     "step": 18,
+     "label": "H"
+    },
+    {
+     "t": 2.2387,
+     "len": 0.2589,
+     "step": 26,
+     "label": "S"
+    },
+    {
+     "t": 2.4976,
+     "len": 0.0589,
+     "step": 29,
+     "label": "S"
+    },
+    {
+     "t": 2.5565,
+     "len": 0.3448,
+     "step": 30,
+     "label": "K"
+    }
+   ]
+  },
+  "liquid174": {
+   "file": "breaks/liquid174.wav",
+   "bpm": 174.0,
+   "bars": 4,
+   "slices": [
+    {
+     "t": 0.0,
+     "len": 0.17,
+     "step": 0,
+     "label": "K"
+    },
+    {
+     "t": 0.17,
+     "len": 0.1719,
+     "step": 2,
+     "label": "K"
+    },
+    {
+     "t": 0.3418,
+     "len": 0.3451,
+     "step": 4,
+     "label": "H"
+    },
+    {
+     "t": 0.6869,
+     "len": 0.3446,
+     "step": 8,
+     "label": "H"
+    },
+    {
+     "t": 1.0315,
+     "len": 0.5174,
+     "step": 12,
+     "label": "S"
+    },
+    {
+     "t": 1.5489,
+     "len": 0.1723,
+     "step": 18,
+     "label": "K"
+    },
+    {
+     "t": 1.7212,
+     "len": 0.6897,
+     "step": 20,
+     "label": "S"
+    },
+    {
+     "t": 2.4108,
+     "len": 0.3448,
+     "step": 28,
+     "label": "S"
+    }
+   ]
+  },
+  "broke170": {
+   "file": "breaks/broke170.wav",
+   "bpm": 170.22,
+   "bars": 2,
+   "slices": [
+    {
+     "t": 0.0072,
+     "len": 0.3437,
+     "step": 0,
+     "label": "K"
+    },
+    {
+     "t": 0.3509,
+     "len": 0.5284,
+     "step": 4,
+     "label": "S"
+    },
+    {
+     "t": 0.8793,
+     "len": 0.177,
+     "step": 10,
+     "label": "K"
+    },
+    {
+     "t": 1.0563,
+     "len": 0.3536,
+     "step": 12,
+     "label": "S"
+    },
+    {
+     "t": 1.4099,
+     "len": 0.3529,
+     "step": 16,
+     "label": "K"
+    },
+    {
+     "t": 1.7627,
+     "len": 0.705,
+     "step": 20,
+     "label": "S"
+    },
+    {
+     "t": 2.4704,
+     "len": 0.1571,
+     "step": 28,
+     "label": "S"
+    },
+    {
+     "t": 2.6276,
+     "len": 0.3525,
+     "step": 30,
+     "label": "S"
+    }
+   ]
+  },
+  "mdl170": {
+   "file": "breaks/mdl170.wav",
+   "bpm": 170.0,
+   "bars": 2,
+   "slices": [
+    {
+     "t": 0.0001,
+     "len": 0.3173,
+     "step": 0,
+     "label": "K"
+    },
+    {
+     "t": 0.3174,
+     "len": 0.3828,
+     "step": 4,
+     "label": "K"
+    },
+    {
+     "t": 0.7002,
+     "len": 0.5303,
+     "step": 8,
+     "label": "S"
+    },
+    {
+     "t": 1.2305,
+     "len": 0.1495,
+     "step": 14,
+     "label": "S"
+    },
+    {
+     "t": 1.3801,
+     "len": 0.3493,
+     "step": 16,
+     "label": "S"
+    },
+    {
+     "t": 1.7293,
+     "len": 0.5602,
+     "step": 20,
+     "label": "K"
+    },
+    {
+     "t": 2.2895,
+     "len": 0.1767,
+     "step": 26,
+     "label": "K"
+    },
+    {
+     "t": 2.4661,
+     "len": 0.3529,
+     "step": 28,
+     "label": "S"
+    }
+   ]
+  },
+  "amen160": {
+   "file": "breaks/amen160.wav",
+   "bpm": 160.0,
+   "bars": 4,
+   "slices": [
+    {
+     "t": 0.0185,
+     "len": 0.1665,
+     "step": 0,
+     "label": "K"
+    },
+    {
+     "t": 0.185,
+     "len": 0.3756,
+     "step": 2,
+     "label": "H"
+    },
+    {
+     "t": 0.5606,
+     "len": 0.5623,
+     "step": 6,
+     "label": "S"
+    },
+    {
+     "t": 1.1229,
+     "len": 0.1877,
+     "step": 12,
+     "label": "S"
+    },
+    {
+     "t": 1.3106,
+     "len": 0.1869,
+     "step": 14,
+     "label": "K"
+    },
+    {
+     "t": 1.4975,
+     "len": 0.75,
+     "step": 16,
+     "label": "K"
+    },
+    {
+     "t": 2.2475,
+     "len": 0.3754,
+     "step": 24,
+     "label": "H"
+    },
+    {
+     "t": 2.6229,
+     "len": 0.375,
+     "step": 28,
+     "label": "S"
+    }
+   ]
+  },
+  "guide165": {
+   "file": "breaks/guide165.wav",
+   "bpm": 165.07,
+   "bars": 4,
+   "slices": [
+    {
+     "t": 0.0,
+     "len": 0.5452,
+     "step": 0,
+     "label": "H"
+    },
+    {
+     "t": 0.5452,
+     "len": 0.727,
+     "step": 6,
+     "label": "S"
+    },
+    {
+     "t": 1.2724,
+     "len": 0.3635,
+     "step": 14,
+     "label": "S"
+    },
+    {
+     "t": 1.6359,
+     "len": 0.3637,
+     "step": 18,
+     "label": "S"
+    },
+    {
+     "t": 1.9996,
+     "len": 0.1821,
+     "step": 22,
+     "label": "S"
+    },
+    {
+     "t": 2.1817,
+     "len": 0.1818,
+     "step": 24,
+     "label": "S"
+    },
+    {
+     "t": 2.3634,
+     "len": 0.1815,
+     "step": 26,
+     "label": "S"
+    },
+    {
+     "t": 2.545,
+     "len": 0.3635,
+     "step": 28,
+     "label": "S"
+    }
+   ]
+  }
+ },
+ "fx": {
+  "rewind": {
+   "file": "fx/rewind.mp3",
+   "dur": 2.68
+  },
+  "rewind_rec": {
+   "file": "fx/rewind_rec.mp3",
+   "dur": 1.436
+  },
+  "scratch": {
+   "file": "fx/scratch.mp3",
+   "dur": 0.448
+  },
+  "scratch5": {
+   "file": "fx/scratch5.mp3",
+   "dur": 1.287
+  },
+  "airhorn": {
+   "file": "fx/airhorn.mp3",
+   "dur": 1.6
+  },
+  "airhorn_short": {
+   "file": "fx/airhorn_short.mp3",
+   "dur": 1.6
+  },
+  "ragga_siren": {
+   "file": "fx/ragga_siren.mp3",
+   "dur": 3.375
+  },
+  "dubsiren_short": {
+   "file": "fx/dubsiren_short.mp3",
+   "dur": 0.774
+  },
+  "siren_hc": {
+   "file": "fx/siren_hc.mp3",
+   "dur": 4.0
+  },
+  "riser": {
+   "file": "fx/riser.mp3",
+   "dur": 2.733
+  },
+  "subdrop": {
+   "file": "fx/subdrop.mp3",
+   "dur": 3.602
+  },
+  "bassdrop": {
+   "file": "fx/bassdrop.mp3",
+   "dur": 3.917
+  },
+  "boom": {
+   "file": "fx/boom.mp3",
+   "dur": 4.0
+  },
+  "laser": {
+   "file": "fx/laser.mp3",
+   "dur": 1.6
+  },
+  "warpdown": {
+   "file": "fx/warpdown.mp3",
+   "dur": 2.035
+  },
+  "revstab": {
+   "file": "fx/revstab.mp3",
+   "dur": 2.169
+  },
+  "hoover": {
+   "file": "fx/hoover.mp3",
+   "dur": 1.998
+  },
+  "hoover_hh": {
+   "file": "fx/hoover_hh.mp3",
+   "dur": 0.511
+  },
+  "hoover_c5": {
+   "file": "fx/hoover_c5.mp3",
+   "dur": 2.0
+  },
+  "stab_noisy": {
+   "file": "fx/stab_noisy.mp3",
+   "dur": 1.999
+  },
+  "orch_hit": {
+   "file": "fx/orch_hit.mp3",
+   "dur": 2.6
+  },
+  "neuro_wob": {
+   "file": "fx/neuro_wob.mp3",
+   "dur": 2.76
+  },
+  "growl": {
+   "file": "fx/growl.mp3",
+   "dur": 0.66
+  },
+  "reese_mp": {
+   "file": "fx/reese_mp.mp3",
+   "dur": 2.0
+  },
+  "vox_ragga": {
+   "file": "fx/vox_ragga.mp3",
+   "dur": 2.4
+  },
+  "vox_aragga": {
+   "file": "fx/vox_aragga.mp3",
+   "dur": 2.6
+  },
+  "vox_woohoo": {
+   "file": "fx/vox_woohoo.mp3",
+   "dur": 1.16
+  },
+  "vox_bighey": {
+   "file": "fx/vox_bighey.mp3",
+   "dur": 1.887
+  },
+  "vox_heyyy": {
+   "file": "fx/vox_heyyy.mp3",
+   "dur": 0.769
+  },
+  "vox_yeah": {
+   "file": "fx/vox_yeah.mp3",
+   "dur": 2.1
+  },
+  "vox_yeah2": {
+   "file": "fx/vox_yeah2.mp3",
+   "dur": 0.938
+  },
+  "vox_ohhh": {
+   "file": "fx/vox_ohhh.mp3",
+   "dur": 0.36
+  },
+  "vox_chops": {
+   "file": "fx/vox_chops.mp3",
+   "dur": 1.8
+  },
+  "vox_a": {
+   "file": "fx/vox_a.mp3",
+   "dur": 1.83
+  },
+  "vox_gated": {
+   "file": "fx/vox_gated.mp3",
+   "dur": 2.0
+  },
+  "vox_hum": {
+   "file": "fx/vox_hum.mp3",
+   "dur": 3.5
+  },
+  "vox_jungle": {
+   "file": "fx/vox_jungle.mp3",
+   "dur": 3.0
+  },
+  "vox_mc": {
+   "file": "fx/vox_mc.mp3",
+   "dur": 2.5
+  }
+ },
+ "inst": {
+  "fmpiano": {
+   "notes": [
+    {
+     "midi": 12,
+     "file": "inst/fmpiano/12.mp3",
+     "detected": 21.47
+    },
+    {
+     "midi": 16,
+     "file": "inst/fmpiano/16.mp3",
+     "detected": 49.66
+    },
+    {
+     "midi": 20,
+     "file": "inst/fmpiano/20.mp3",
+     "detected": 20.19
+    },
+    {
+     "midi": 24,
+     "file": "inst/fmpiano/24.mp3",
+     "detected": 24.14
+    },
+    {
+     "midi": 28,
+     "file": "inst/fmpiano/28.mp3",
+     "detected": 27.93
+    },
+    {
+     "midi": 32,
+     "file": "inst/fmpiano/32.mp3",
+     "detected": 31.97
+    },
+    {
+     "midi": 36,
+     "file": "inst/fmpiano/36.mp3",
+     "detected": 35.96
+    },
+    {
+     "midi": 40,
+     "file": "inst/fmpiano/40.mp3",
+     "detected": 40.08
+    },
+    {
+     "midi": 44,
+     "file": "inst/fmpiano/44.mp3",
+     "detected": 44.08
+    },
+    {
+     "midi": 48,
+     "file": "inst/fmpiano/48.mp3",
+     "detected": 48.05
+    },
+    {
+     "midi": 52,
+     "file": "inst/fmpiano/52.mp3",
+     "detected": 52.01
+    },
+    {
+     "midi": 56,
+     "file": "inst/fmpiano/56.mp3",
+     "detected": 56.02
+    },
+    {
+     "midi": 60,
+     "file": "inst/fmpiano/60.mp3",
+     "detected": 60.01
+    },
+    {
+     "midi": 64,
+     "file": "inst/fmpiano/64.mp3",
+     "detected": 64.01
+    },
+    {
+     "midi": 68,
+     "file": "inst/fmpiano/68.mp3",
+     "detected": 68.0
+    },
+    {
+     "midi": 72,
+     "file": "inst/fmpiano/72.mp3",
+     "detected": 72.01
+    },
+    {
+     "midi": 76,
+     "file": "inst/fmpiano/76.mp3",
+     "detected": 76.01
+    },
+    {
+     "midi": 80,
+     "file": "inst/fmpiano/80.mp3",
+     "detected": 80.01
+    },
+    {
+     "midi": 84,
+     "file": "inst/fmpiano/84.mp3",
+     "detected": 84.01
+    },
+    {
+     "midi": 88,
+     "file": "inst/fmpiano/88.mp3",
+     "detected": 88.01
+    },
+    {
+     "midi": 92,
+     "file": "inst/fmpiano/92.mp3",
+     "detected": 92.0
+    },
+    {
+     "midi": 96,
+     "file": "inst/fmpiano/96.mp3",
+     "detected": 96.0
+    }
+   ],
+   "octave_shift": 0
+  },
+  "piano1": {
+   "notes": [
+    {
+     "midi": 24,
+     "file": "inst/piano1/24.mp3",
+     "detected": 24.14
+    },
+    {
+     "midi": 28,
+     "file": "inst/piano1/28.mp3",
+     "detected": 27.93
+    },
+    {
+     "midi": 32,
+     "file": "inst/piano1/32.mp3",
+     "detected": 31.97
+    },
+    {
+     "midi": 36,
+     "file": "inst/piano1/36.mp3",
+     "detected": 35.96
+    },
+    {
+     "midi": 40,
+     "file": "inst/piano1/40.mp3",
+     "detected": 39.93
+    },
+    {
+     "midi": 44,
+     "file": "inst/piano1/44.mp3",
+     "detected": 44.08
+    },
+    {
+     "midi": 48,
+     "file": "inst/piano1/48.mp3",
+     "detected": 47.96
+    },
+    {
+     "midi": 52,
+     "file": "inst/piano1/52.mp3",
+     "detected": 52.01
+    },
+    {
+     "midi": 56,
+     "file": "inst/piano1/56.mp3",
+     "detected": 56.02
+    },
+    {
+     "midi": 60,
+     "file": "inst/piano1/60.mp3",
+     "detected": 60.01
+    },
+    {
+     "midi": 64,
+     "file": "inst/piano1/64.mp3",
+     "detected": 63.97
+    },
+    {
+     "midi": 68,
+     "file": "inst/piano1/68.mp3",
+     "detected": 68.0
+    },
+    {
+     "midi": 72,
+     "file": "inst/piano1/72.mp3",
+     "detected": 71.99
+    },
+    {
+     "midi": 76,
+     "file": "inst/piano1/76.mp3",
+     "detected": 75.99
+    },
+    {
+     "midi": 80,
+     "file": "inst/piano1/80.mp3",
+     "detected": 80.0
+    },
+    {
+     "midi": 84,
+     "file": "inst/piano1/84.mp3",
+     "detected": 84.0
+    },
+    {
+     "midi": 88,
+     "file": "inst/piano1/88.mp3",
+     "detected": 88.0
+    },
+    {
+     "midi": 92,
+     "file": "inst/piano1/92.mp3",
+     "detected": 92.0
+    },
+    {
+     "midi": 96,
+     "file": "inst/piano1/96.mp3",
+     "detected": 95.99
+    },
+    {
+     "midi": 100,
+     "file": "inst/piano1/100.mp3",
+     "detected": 88.0
+    },
+    {
+     "midi": 104,
+     "file": "inst/piano1/104.mp3",
+     "detected": 92.0
+    },
+    {
+     "midi": 108,
+     "file": "inst/piano1/108.mp3",
+     "detected": 96.0
+    }
+   ],
+   "octave_shift": 12
+  },
+  "cello": {
+   "notes": [
+    {
+     "midi": 36,
+     "file": "inst/cello/36.mp3",
+     "detected": 48.05
+    },
+    {
+     "midi": 40,
+     "file": "inst/cello/40.mp3",
+     "detected": 39.93
+    },
+    {
+     "midi": 43,
+     "file": "inst/cello/43.mp3",
+     "detected": 42.92
+    },
+    {
+     "midi": 47,
+     "file": "inst/cello/47.mp3",
+     "detected": 46.95
+    },
+    {
+     "midi": 50,
+     "file": "inst/cello/50.mp3",
+     "detected": 50.06
+    },
+    {
+     "midi": 53,
+     "file": "inst/cello/53.mp3",
+     "detected": 53.03
+    },
+    {
+     "midi": 57,
+     "file": "inst/cello/57.mp3",
+     "detected": 56.95
+    },
+    {
+     "midi": 60,
+     "file": "inst/cello/60.mp3",
+     "detected": 60.01
+    },
+    {
+     "midi": 64,
+     "file": "inst/cello/64.mp3",
+     "detected": 64.04
+    },
+    {
+     "midi": 67,
+     "file": "inst/cello/67.mp3",
+     "detected": 67.04
+    },
+    {
+     "midi": 71,
+     "file": "inst/cello/71.mp3",
+     "detected": 71.0
+    },
+    {
+     "midi": 74,
+     "file": "inst/cello/74.mp3",
+     "detected": 73.9
+    },
+    {
+     "midi": 77,
+     "file": "inst/cello/77.mp3",
+     "detected": 77.05
+    }
+   ],
+   "octave_shift": 12
+  },
+  "viola": {
+   "notes": [
+    {
+     "midi": 48,
+     "file": "inst/viola/48.mp3",
+     "detected": 60.01
+    },
+    {
+     "midi": 50,
+     "file": "inst/viola/50.mp3",
+     "detected": 49.98
+    },
+    {
+     "midi": 52,
+     "file": "inst/viola/52.mp3",
+     "detected": 64.04
+    },
+    {
+     "midi": 55,
+     "file": "inst/viola/55.mp3",
+     "detected": 54.98
+    },
+    {
+     "midi": 59,
+     "file": "inst/viola/59.mp3",
+     "detected": 58.95
+    },
+    {
+     "midi": 62,
+     "file": "inst/viola/62.mp3",
+     "detected": 62.1
+    },
+    {
+     "midi": 65,
+     "file": "inst/viola/65.mp3",
+     "detected": 65.07
+    },
+    {
+     "midi": 69,
+     "file": "inst/viola/69.mp3",
+     "detected": 69.0
+    },
+    {
+     "midi": 72,
+     "file": "inst/viola/72.mp3",
+     "detected": 71.99
+    },
+    {
+     "midi": 76,
+     "file": "inst/viola/76.mp3",
+     "detected": 76.02
+    },
+    {
+     "midi": 79,
+     "file": "inst/viola/79.mp3",
+     "detected": 78.98
+    },
+    {
+     "midi": 83,
+     "file": "inst/viola/83.mp3",
+     "detected": 83.0
+    },
+    {
+     "midi": 86,
+     "file": "inst/viola/86.mp3",
+     "detected": 86.12
+    }
+   ],
+   "octave_shift": 12
+  },
+  "violin": {
+   "notes": [
+    {
+     "midi": 55,
+     "file": "inst/violin/55.mp3",
+     "detected": 54.98
+    },
+    {
+     "midi": 57,
+     "file": "inst/violin/57.mp3",
+     "detected": 69.0
+    },
+    {
+     "midi": 59,
+     "file": "inst/violin/59.mp3",
+     "detected": 58.95
+    },
+    {
+     "midi": 62,
+     "file": "inst/violin/62.mp3",
+     "detected": 61.98
+    },
+    {
+     "midi": 66,
+     "file": "inst/violin/66.mp3",
+     "detected": 66.01
+    },
+    {
+     "midi": 69,
+     "file": "inst/violin/69.mp3",
+     "detected": 69.0
+    },
+    {
+     "midi": 72,
+     "file": "inst/violin/72.mp3",
+     "detected": 72.05
+    },
+    {
+     "midi": 76,
+     "file": "inst/violin/76.mp3",
+     "detected": 76.01
+    },
+    {
+     "midi": 79,
+     "file": "inst/violin/79.mp3",
+     "detected": 79.04
+    },
+    {
+     "midi": 83,
+     "file": "inst/violin/83.mp3",
+     "detected": 83.05
+    },
+    {
+     "midi": 86,
+     "file": "inst/violin/86.mp3",
+     "detected": 86.03
+    }
+   ],
+   "octave_shift": 12
+  },
+  "harp": {
+   "notes": [
+    {
+     "midi": 28,
+     "file": "inst/harp/28.mp3",
+     "detected": 46.86
+    },
+    {
+     "midi": 31,
+     "file": "inst/harp/31.mp3",
+     "detected": 42.68
+    },
+    {
+     "midi": 35,
+     "file": "inst/harp/35.mp3",
+     "detected": 46.86
+    },
+    {
+     "midi": 38,
+     "file": "inst/harp/38.mp3",
+     "detected": 57.0
+    },
+    {
+     "midi": 41,
+     "file": "inst/harp/41.mp3",
+     "detected": 40.9
+    },
+    {
+     "midi": 45,
+     "file": "inst/harp/45.mp3",
+     "detected": 44.95
+    },
+    {
+     "midi": 48,
+     "file": "inst/harp/48.mp3",
+     "detected": 47.96
+    },
+    {
+     "midi": 52,
+     "file": "inst/harp/52.mp3",
+     "detected": 51.93
+    },
+    {
+     "midi": 55,
+     "file": "inst/harp/55.mp3",
+     "detected": 54.92
+    },
+    {
+     "midi": 59,
+     "file": "inst/harp/59.mp3",
+     "detected": 58.91
+    },
+    {
+     "midi": 62,
+     "file": "inst/harp/62.mp3",
+     "detected": 61.86
+    },
+    {
+     "midi": 65,
+     "file": "inst/harp/65.mp3",
+     "detected": 65.0
+    },
+    {
+     "midi": 69,
+     "file": "inst/harp/69.mp3",
+     "detected": 68.9
+    },
+    {
+     "midi": 72,
+     "file": "inst/harp/72.mp3",
+     "detected": 71.92
+    },
+    {
+     "midi": 76,
+     "file": "inst/harp/76.mp3",
+     "detected": 75.88
+    },
+    {
+     "midi": 79,
+     "file": "inst/harp/79.mp3",
+     "detected": 78.94
+    },
+    {
+     "midi": 83,
+     "file": "inst/harp/83.mp3",
+     "detected": 82.92
+    },
+    {
+     "midi": 86,
+     "file": "inst/harp/86.mp3",
+     "detected": 85.95
+    },
+    {
+     "midi": 89,
+     "file": "inst/harp/89.mp3",
+     "detected": 76.95
+    },
+    {
+     "midi": 93,
+     "file": "inst/harp/93.mp3",
+     "detected": 80.82
+    },
+    {
+     "midi": 95,
+     "file": "inst/harp/95.mp3",
+     "detected": 82.88
+    },
+    {
+     "midi": 98,
+     "file": "inst/harp/98.mp3",
+     "detected": 73.9
+    },
+    {
+     "midi": 101,
+     "file": "inst/harp/101.mp3",
+     "detected": 76.85
+    }
+   ],
+   "octave_shift": 0
+  },
+  "spic": {
+   "notes": [
+    {
+     "midi": 55,
+     "file": "inst/spic/55.mp3",
+     "detected": 54.98
+    },
+    {
+     "midi": 57,
+     "file": "inst/spic/57.mp3",
+     "detected": 69.0
+    },
+    {
+     "midi": 59,
+     "file": "inst/spic/59.mp3",
+     "detected": 59.14
+    },
+    {
+     "midi": 62,
+     "file": "inst/spic/62.mp3",
+     "detected": 61.94
+    },
+    {
+     "midi": 66,
+     "file": "inst/spic/66.mp3",
+     "detected": 66.07
+    },
+    {
+     "midi": 69,
+     "file": "inst/spic/69.mp3",
+     "detected": 69.0
+    },
+    {
+     "midi": 72,
+     "file": "inst/spic/72.mp3",
+     "detected": 72.03
+    },
+    {
+     "midi": 76,
+     "file": "inst/spic/76.mp3",
+     "detected": 75.95
+    },
+    {
+     "midi": 79,
+     "file": "inst/spic/79.mp3",
+     "detected": 79.01
+    },
+    {
+     "midi": 83,
+     "file": "inst/spic/83.mp3",
+     "detected": 82.95
+    },
+    {
+     "midi": 86,
+     "file": "inst/spic/86.mp3",
+     "detected": 86.01
+    }
+   ],
+   "octave_shift": 12
+  }
+ },
+ "atmos": {
+  "vinyl_dust": {
+   "file": "atmos/vinyl_dust.mp3",
+   "dur": 9.395
+  },
+  "gramophone": {
+   "file": "atmos/gramophone.mp3",
+   "dur": 18.5
+  },
+  "night_city": {
+   "file": "atmos/night_city.mp3",
+   "dur": 30.5
+  },
+  "space": {
+   "file": "atmos/space.mp3",
+   "dur": 30.5
+  },
+  "choir_fsm": {
+   "file": "atmos/choir_fsm.mp3",
+   "dur": 30.5
+  },
+  "dark_mech": {
+   "file": "atmos/dark_mech.mp3",
+   "dur": 30.5
+  },
+  "warehouse": {
+   "file": "atmos/warehouse.mp3",
+   "dur": 30.5
+  }
+ },
+ "credits": {
+  "102130": {
+   "title": "Hard_Subby_Kick.mp3",
+   "user": "NoirPantalon",
+   "url": "https://freesound.org/people/NoirPantalon/sounds/102130/",
+   "license": "CC0"
+  },
+  "110218": {
+   "title": "reverse crash.wav",
+   "user": "genocidalguitar",
+   "url": "https://freesound.org/people/genocidalguitar/sounds/110218/",
+   "license": "CC0"
+  },
+  "11512": {
+   "title": "hardhouse hoover.wav",
+   "user": "woowah",
+   "url": "https://freesound.org/people/woowah/sounds/11512/",
+   "license": "CC0"
+  },
+  "129360": {
+   "title": "Yeah (Vocal)",
+   "user": "leonschi13",
+   "url": "https://freesound.org/people/leonschi13/sounds/129360/",
+   "license": "CC0"
+  },
+  "131363": {
+   "title": "Snare DnB 1.aif",
+   "user": "nahmandub",
+   "url": "https://freesound.org/people/nahmandub/sounds/131363/",
+   "license": "CC0"
+  },
+  "132418": {
+   "title": "Rimshot (sweet)",
+   "user": "Sajmund",
+   "url": "https://freesound.org/people/Sajmund/sounds/132418/",
+   "license": "CC0"
+  },
+  "13267": {
+   "title": "ragga 1.wav",
+   "user": "hartboy",
+   "url": "https://freesound.org/people/hartboy/sounds/13267/",
+   "license": "CC0"
+  },
+  "135117": {
+   "title": "regea syren.wav",
+   "user": ".Andre_Onate",
+   "url": "https://freesound.org/people/.Andre_Onate/sounds/135117/",
+   "license": "CC0"
+  },
+  "135118": {
+   "title": "laser zap 2.wav",
+   "user": ".Andre_Onate",
+   "url": "https://freesound.org/people/.Andre_Onate/sounds/135118/",
+   "license": "CC0"
+  },
+  "156863": {
+   "title": "Drum n Bass loop (Drum + Perc)",
+   "user": "Alastair_Pursloe",
+   "url": "https://freesound.org/people/Alastair_Pursloe/sounds/156863/",
+   "license": "CC0"
+  },
+  "162493": {
+   "title": "Vinyl rewind",
+   "user": "TasmanianPower",
+   "url": "https://freesound.org/people/TasmanianPower/sounds/162493/",
+   "license": "CC0"
+  },
+  "164273": {
+   "title": "Orchestral Hit - The Villain Appears",
+   "user": "Dredile",
+   "url": "https://freesound.org/people/Dredile/sounds/164273/",
+   "license": "CC0"
+  },
+  "165154": {
+   "title": "Rpeople_RevCrash2.wav",
+   "user": "rhythmpeople",
+   "url": "https://freesound.org/people/rhythmpeople/sounds/165154/",
+   "license": "CC0"
+  },
+  "165330": {
+   "title": "Techno Snare Roll",
+   "user": "ani_music",
+   "url": "https://freesound.org/people/ani_music/sounds/165330/",
+   "license": "CC0"
+  },
+  "165334": {
+   "title": "Hoover Sound C5.wav",
+   "user": "Jessetz",
+   "url": "https://freesound.org/people/Jessetz/sounds/165334/",
+   "license": "CC0"
+  },
+  "167034": {
+   "title": "Light Rain",
+   "user": "soundrecorder7",
+   "url": "https://freesound.org/people/soundrecorder7/sounds/167034/",
+   "license": "CC0"
+  },
+  "170353": {
+   "title": "Dnb_break_8.wav",
+   "user": "hardwareshaba",
+   "url": "https://freesound.org/people/hardwareshaba/sounds/170353/",
+   "license": "CC0"
+  },
+  "171104": {
+   "title": "kick_gettinglaid.wav",
+   "user": "DWSD",
+   "url": "https://freesound.org/people/DWSD/sounds/171104/",
+   "license": "CC0"
+  },
+  "171486": {
+   "title": "Savannah Crash Right.wav",
+   "user": "xIceCoffeex",
+   "url": "https://freesound.org/people/xIceCoffeex/sounds/171486/",
+   "license": "CC0"
+  },
+  "171980": {
+   "title": "AMB_M_City_Rain_Light.wav",
+   "user": "conleec",
+   "url": "https://freesound.org/people/conleec/sounds/171980/",
+   "license": "CC0"
+  },
+  "173087": {
+   "title": "Wood Snare (Sample 3).wav",
+   "user": "YellowTree",
+   "url": "https://freesound.org/people/YellowTree/sounds/173087/",
+   "license": "CC0"
+  },
+  "174450": {
+   "title": "Space Ambience.wav",
+   "user": "Sonicfreak",
+   "url": "https://freesound.org/people/Sonicfreak/sounds/174450/",
+   "license": "CC0"
+  },
+  "177197": {
+   "title": "DNB kicks",
+   "user": "Rendy95",
+   "url": "https://freesound.org/people/Rendy95/sounds/177197/",
+   "license": "CC0"
+  },
+  "178555": {
+   "title": "record rewind.mp3",
+   "user": "richienoodles",
+   "url": "https://freesound.org/people/richienoodles/sounds/178555/",
+   "license": "CC0"
+  },
+  "181321": {
+   "title": "snare",
+   "user": "ojirio",
+   "url": "https://freesound.org/people/ojirio/sounds/181321/",
+   "license": "CC0"
+  },
+  "187768": {
+   "title": "dubsiren.wav",
+   "user": "zoltan87",
+   "url": "https://freesound.org/people/zoltan87/sounds/187768/",
+   "license": "CC0"
+  },
+  "189779": {
+   "title": "Big Boom",
+   "user": "unfa",
+   "url": "https://freesound.org/people/unfa/sounds/189779/",
+   "license": "CC0"
+  },
+  "19436": {
+   "title": "rim_shot_closed.aif",
+   "user": "Heigh-hoo",
+   "url": "https://freesound.org/people/Heigh-hoo/sounds/19436/",
+   "license": "CC0"
+  },
+  "196571": {
+   "title": "Yeeeeeaaaahh, Yeah!.wav",
+   "user": "ecfike",
+   "url": "https://freesound.org/people/ecfike/sounds/196571/",
+   "license": "CC0"
+  },
+  "20705": {
+   "title": "spacedrone3.wav",
+   "user": "Elektrocell",
+   "url": "https://freesound.org/people/Elektrocell/sounds/20705/",
+   "license": "CC0"
+  },
+  "208427": {
+   "title": "PPU-SNARE - Marker #137.wav",
+   "user": "choomaque-crispydinner",
+   "url": "https://freesound.org/people/choomaque-crispydinner/sounds/208427/",
+   "license": "CC0"
+  },
+  "212768": {
+   "title": "Bass Drop",
+   "user": "qubodup",
+   "url": "https://freesound.org/people/qubodup/sounds/212768/",
+   "license": "CC0"
+  },
+  "212998": {
+   "title": "Dark_JungleVoice_2.wav",
+   "user": "DneproMan",
+   "url": "https://freesound.org/people/DneproMan/sounds/212998/",
+   "license": "CC0"
+  },
+  "213525": {
+   "title": "Noisy analog synth stab",
+   "user": "Garzul",
+   "url": "https://freesound.org/people/Garzul/sounds/213525/",
+   "license": "CC0"
+  },
+  "22319": {
+   "title": "aragga1.wav",
+   "user": "mikesh",
+   "url": "https://freesound.org/people/mikesh/sounds/22319/",
+   "license": "CC0"
+  },
+  "233529": {
+   "title": "Big Neuro.wav",
+   "user": "jskydiver1",
+   "url": "https://freesound.org/people/jskydiver1/sounds/233529/",
+   "license": "CC0"
+  },
+  "237329": {
+   "title": "Night city atmosphere",
+   "user": "Soundkrampf",
+   "url": "https://freesound.org/people/Soundkrampf/sounds/237329/",
+   "license": "CC0"
+  },
+  "240895": {
+   "title": "abandoned warehouse",
+   "user": "Kostrava",
+   "url": "https://freesound.org/people/Kostrava/sounds/240895/",
+   "license": "CC0"
+  },
+  "241803": {
+   "title": "Reverse stab",
+   "user": "fulloncamel",
+   "url": "https://freesound.org/people/fulloncamel/sounds/241803/",
+   "license": "CC0"
+  },
+  "242969": {
+   "title": "Classic breakbeats - Apache middle break (original, 2 bar)",
+   "user": "Bronxio",
+   "url": "https://freesound.org/people/Bronxio/sounds/242969/",
+   "license": "CC0"
+  },
+  "249612": {
+   "title": "Glowing Pad.wav",
+   "user": "staticpony1",
+   "url": "https://freesound.org/people/staticpony1/sounds/249612/",
+   "license": "CC0"
+  },
+  "25595": {
+   "title": "Mono Poly Reese Bass.aif",
+   "user": "Walter_Odington",
+   "url": "https://freesound.org/people/Walter_Odington/sounds/25595/",
+   "license": "CC0"
+  },
+  "259961": {
+   "title": "Warp Down",
+   "user": "thehorriblejoke",
+   "url": "https://freesound.org/people/thehorriblejoke/sounds/259961/",
+   "license": "CC0"
+  },
+  "261326": {
+   "title": "Reese // Reece",
+   "user": "PigBenx",
+   "url": "https://freesound.org/people/PigBenx/sounds/261326/",
+   "license": "CC0"
+  },
+  "262349": {
+   "title": "Reker Bass Stabs",
+   "user": "Stereo Surgeon",
+   "url": "https://freesound.org/people/Stereo Surgeon/sounds/262349/",
+   "license": "CC0"
+  },
+  "263869": {
+   "title": "Amen Break B (160 BPM)",
+   "user": "Kevcio",
+   "url": "https://freesound.org/people/Kevcio/sounds/263869/",
+   "license": "CC0"
+  },
+  "263870": {
+   "title": "Amen Break C (173 BPM)",
+   "user": "Kevcio",
+   "url": "https://freesound.org/people/Kevcio/sounds/263870/",
+   "license": "CC0"
+  },
+  "266914": {
+   "title": "dubsiren_processed_stereo-005.wav",
+   "user": "matze73",
+   "url": "https://freesound.org/people/matze73/sounds/266914/",
+   "license": "CC0"
+  },
+  "269495": {
+   "title": "Jungle study",
+   "user": "deleted_user_2906614",
+   "url": "https://freesound.org/people/deleted_user_2906614/sounds/269495/",
+   "license": "CC0"
+  },
+  "319613": {
+   "title": "Brostep - Wide Punchy Snare",
+   "user": "Hybrid_V",
+   "url": "https://freesound.org/people/Hybrid_V/sounds/319613/",
+   "license": "CC0"
+  },
+  "321221": {
+   "title": "Amen Break G (165 BPM)",
+   "user": "Kevcio",
+   "url": "https://freesound.org/people/Kevcio/sounds/321221/",
+   "license": "CC0"
+  },
+  "337827": {
+   "title": "Kick_Short_Tail_174_Bpm_02.wav",
+   "user": "hardwareshaba",
+   "url": "https://freesound.org/people/hardwareshaba/sounds/337827/",
+   "license": "CC0"
+  },
+  "341488": {
+   "title": "Woo Hoo",
+   "user": "Rocotilos",
+   "url": "https://freesound.org/people/Rocotilos/sounds/341488/",
+   "license": "CC0"
+  },
+  "345431": {
+   "title": "Male_Heyyy_01",
+   "user": "Artmasterrich",
+   "url": "https://freesound.org/people/Artmasterrich/sounds/345431/",
+   "license": "CC0"
+  },
+  "371192": {
+   "title": "acoustic kick.wav",
+   "user": "karolist",
+   "url": "https://freesound.org/people/karolist/sounds/371192/",
+   "license": "CC0"
+  },
+  "371583": {
+   "title": "Vinyl Record Crackle Loop",
+   "user": "OwlStorm",
+   "url": "https://freesound.org/people/OwlStorm/sounds/371583/",
+   "license": "CC0"
+  },
+  "387947": {
+   "title": "Oh yeah.wav",
+   "user": "Sami_Kullstr\u00f6m",
+   "url": "https://freesound.org/people/Sami_Kullstr\u00f6m/sounds/387947/",
+   "license": "CC0"
+  },
+  "392696": {
+   "title": "Dubstep Growl",
+   "user": "Poligonstudio",
+   "url": "https://freesound.org/people/Poligonstudio/sounds/392696/",
+   "license": "CC0"
+  },
+  "396164": {
+   "title": "Think About It Break",
+   "user": "Chameon",
+   "url": "https://freesound.org/people/Chameon/sounds/396164/",
+   "license": "CC0"
+  },
+  "397091": {
+   "title": "Soft Tonal Wind_01",
+   "user": "janbezouska",
+   "url": "https://freesound.org/people/janbezouska/sounds/397091/",
+   "license": "CC0"
+  },
+  "399542": {
+   "title": "Hoover Synth",
+   "user": "Chameon",
+   "url": "https://freesound.org/people/Chameon/sounds/399542/",
+   "license": "CC0"
+  },
+  "399897": {
+   "title": "Hi-Hat",
+   "user": "TheFlakesMaster",
+   "url": "https://freesound.org/people/TheFlakesMaster/sounds/399897/",
+   "license": "CC0"
+  },
+  "400707": {
+   "title": "Subby Kick Drum",
+   "user": "Mattc90",
+   "url": "https://freesound.org/people/Mattc90/sounds/400707/",
+   "license": "CC0"
+  },
+  "414208": {
+   "title": "Airhorn",
+   "user": "jacksonacademyashmore",
+   "url": "https://freesound.org/people/jacksonacademyashmore/sounds/414208/",
+   "license": "CC0"
+  },
+  "416338": {
+   "title": "Vocal letter \"a\"",
+   "user": "DarkTemps",
+   "url": "https://freesound.org/people/DarkTemps/sounds/416338/",
+   "license": "CC0"
+  },
+  "422679": {
+   "title": "80's Power Snare",
+   "user": "YellowTree",
+   "url": "https://freesound.org/people/YellowTree/sounds/422679/",
+   "license": "CC0"
+  },
+  "428073": {
+   "title": "Sub Drop Smooth.wav",
+   "user": "newagesoup",
+   "url": "https://freesound.org/people/newagesoup/sounds/428073/",
+   "license": "CC0"
+  },
+  "431780": {
+   "title": "Record Scratch #5",
+   "user": "musicvision31",
+   "url": "https://freesound.org/people/musicvision31/sounds/431780/",
+   "license": "CC0"
+  },
+  "434700": {
+   "title": "Angelic Choir.wav",
+   "user": "BuytheField",
+   "url": "https://freesound.org/people/BuytheField/sounds/434700/",
+   "license": "CC0"
+  },
+  "437584": {
+   "title": "Female Vocal Chops.mp3",
+   "user": "chenny0607",
+   "url": "https://freesound.org/people/chenny0607/sounds/437584/",
+   "license": "CC0"
+  },
+  "438540": {
+   "title": "Neurofunk/ D'n'B Style Distorted Synth Bass Wob",
+   "user": "Mattc90",
+   "url": "https://freesound.org/people/Mattc90/sounds/438540/",
+   "license": "CC0"
+  },
+  "45102": {
+   "title": "crashB.wav",
+   "user": "Matias.Reccius",
+   "url": "https://freesound.org/people/Matias.Reccius/sounds/45102/",
+   "license": "CC0"
+  },
+  "45664": {
+   "title": "Zildjian A Custom Hi-Hat Cymbals Closed Hit.WAV",
+   "user": "pjcohen",
+   "url": "https://freesound.org/people/pjcohen/sounds/45664/",
+   "license": "CC0"
+  },
+  "45669": {
+   "title": "Zildjian Transitional Stamp Sizzle Ride Cymbal Hit.WAV",
+   "user": "pjcohen",
+   "url": "https://freesound.org/people/pjcohen/sounds/45669/",
+   "license": "CC0"
+  },
+  "46446": {
+   "title": "Zildjian Transitional Stamp Sizzle Ride Cymbal Bell Hit.wav",
+   "user": "pjcohen",
+   "url": "https://freesound.org/people/pjcohen/sounds/46446/",
+   "license": "CC0"
+  },
+  "46564": {
+   "title": "Ludwig Black Beauty Snare Drum Closed Rimshot Unprocessed.wav",
+   "user": "pjcohen",
+   "url": "https://freesound.org/people/pjcohen/sounds/46564/",
+   "license": "CC0"
+  },
+  "484618": {
+   "title": "LCA_174_Drum_02_Full.wav",
+   "user": "Loop_Cult",
+   "url": "https://freesound.org/people/Loop_Cult/sounds/484618/",
+   "license": "CC0"
+  },
+  "501768": {
+   "title": "Beat 170",
+   "user": "akirill",
+   "url": "https://freesound.org/people/akirill/sounds/501768/",
+   "license": "CC0"
+  },
+  "50924": {
+   "title": "Vocal Man Hit 'Ohhh'.aif",
+   "user": "RutgerMuller",
+   "url": "https://freesound.org/people/RutgerMuller/sounds/50924/",
+   "license": "CC0"
+  },
+  "51257": {
+   "title": "Drum n Bass Hi-Hat Conga Loop.wav",
+   "user": "RutgerMuller",
+   "url": "https://freesound.org/people/RutgerMuller/sounds/51257/",
+   "license": "CC0"
+  },
+  "531826": {
+   "title": "Broke 170 bpm.wav",
+   "user": "El_Bardo",
+   "url": "https://freesound.org/people/El_Bardo/sounds/531826/",
+   "license": "CC0"
+  },
+  "55193": {
+   "title": "dub siren_16 1.mp3",
+   "user": "hello_flowers",
+   "url": "https://freesound.org/people/hello_flowers/sounds/55193/",
+   "license": "CC0"
+  },
+  "561207": {
+   "title": "Riser",
+   "user": "Rizzard",
+   "url": "https://freesound.org/people/Rizzard/sounds/561207/",
+   "license": "CC0"
+  },
+  "568581": {
+   "title": "Vegas kick 01.wav",
+   "user": "DreStortion",
+   "url": "https://freesound.org/people/DreStortion/sounds/568581/",
+   "license": "CC0"
+  },
+  "57746": {
+   "title": "gramophone_crackle.wav",
+   "user": "3bagbrew",
+   "url": "https://freesound.org/people/3bagbrew/sounds/57746/",
+   "license": "CC0"
+  },
+  "613929": {
+   "title": "DnB Break Beat 174BPM",
+   "user": "crash_358",
+   "url": "https://freesound.org/people/crash_358/sounds/613929/",
+   "license": "CC0"
+  },
+  "614342": {
+   "title": "Vinyl Dust 50.wav",
+   "user": "mitchanary",
+   "url": "https://freesound.org/people/mitchanary/sounds/614342/",
+   "license": "CC0"
+  },
+  "623055": {
+   "title": "Gated vocal sample",
+   "user": "Shyinka",
+   "url": "https://freesound.org/people/Shyinka/sounds/623055/",
+   "license": "CC0"
+  },
+  "631870": {
+   "title": "MDL_Breakbeat_Loop_170_05.wav",
+   "user": "DJ3WB",
+   "url": "https://freesound.org/people/DJ3WB/sounds/631870/",
+   "license": "CC0"
+  },
+  "64587": {
+   "title": "mc fresh op93039.wav",
+   "user": "Halima Ahkdar",
+   "url": "https://freesound.org/people/Halima Ahkdar/sounds/64587/",
+   "license": "CC0"
+  },
+  "653386": {
+   "title": "Big Hey",
+   "user": "letztergeist",
+   "url": "https://freesound.org/people/letztergeist/sounds/653386/",
+   "license": "CC0"
+  },
+  "65770": {
+   "title": "dnb_beat_2_Slow_175.wav.wav",
+   "user": "dahovv",
+   "url": "https://freesound.org/people/dahovv/sounds/65770/",
+   "license": "CC0"
+  },
+  "66446": {
+   "title": "Dark Mech Pad.wav",
+   "user": "nonono2",
+   "url": "https://freesound.org/people/nonono2/sounds/66446/",
+   "license": "CC0"
+  },
+  "678382": {
+   "title": "big airy choir pad",
+   "user": "msx2plus",
+   "url": "https://freesound.org/people/msx2plus/sounds/678382/",
+   "license": "CC0"
+  },
+  "685256": {
+   "title": "Riser sound effect short.wav",
+   "user": "syntheffects",
+   "url": "https://freesound.org/people/syntheffects/sounds/685256/",
+   "license": "CC0"
+  },
+  "685679": {
+   "title": "Humming in A Minor",
+   "user": "xkeril",
+   "url": "https://freesound.org/people/xkeril/sounds/685679/",
+   "license": "CC0"
+  },
+  "68999": {
+   "title": "airhorn-short.wav",
+   "user": "guitarguy1985",
+   "url": "https://freesound.org/people/guitarguy1985/sounds/68999/",
+   "license": "CC0"
+  },
+  "702401": {
+   "title": "Halftime Apache Break 170bpm",
+   "user": "Breaksmatter2006",
+   "url": "https://freesound.org/people/Breaksmatter2006/sounds/702401/",
+   "license": "CC0"
+  },
+  "716153": {
+   "title": "dub_siren_lfo_square_short_9",
+   "user": "leonseptavaux",
+   "url": "https://freesound.org/people/leonseptavaux/sounds/716153/",
+   "license": "CC0"
+  },
+  "71853": {
+   "title": "record_scratch.wav",
+   "user": "ludvique",
+   "url": "https://freesound.org/people/ludvique/sounds/71853/",
+   "license": "CC0"
+  },
+  "74385": {
+   "title": "To Hell With Vinyl.wav",
+   "user": "dland",
+   "url": "https://freesound.org/people/dland/sounds/74385/",
+   "license": "CC0"
+  },
+  "77088": {
+   "title": "Laser short 2.wav",
+   "user": "Defunct3",
+   "url": "https://freesound.org/people/Defunct3/sounds/77088/",
+   "license": "CC0"
+  },
+  "77305": {
+   "title": "buzz roll.wav",
+   "user": "bigjoedrummer",
+   "url": "https://freesound.org/people/bigjoedrummer/sounds/77305/",
+   "license": "CC0"
+  },
+  "78513": {
+   "title": "Cymbal.aif",
+   "user": "irjames",
+   "url": "https://freesound.org/people/irjames/sounds/78513/",
+   "license": "CC0"
+  },
+  "808032": {
+   "title": "Ambient F Sharp Minor Ethereal Choir Pad 1",
+   "user": "deadrobotmusic",
+   "url": "https://freesound.org/people/deadrobotmusic/sounds/808032/",
+   "license": "CC0"
+  },
+  "812": {
+   "title": "OpenAndCloseHatAC.aif",
+   "user": "bdu",
+   "url": "https://freesound.org/people/bdu/sounds/812/",
+   "license": "CC0"
+  },
+  "82279": {
+   "title": "acoustic kick.wav",
+   "user": "KEVOY",
+   "url": "https://freesound.org/people/KEVOY/sounds/82279/",
+   "license": "CC0"
+  }
+ }
+}

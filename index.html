@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="theme-color" content="#0b0b0c">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>breakpad</title>
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="app.css">
+</head>
+<body class="skin-graphite">
+<div class="app" id="app">
+  <header class="top">
+    <div class="brand">breakpad</div>
+    <div class="skins" id="skins" role="radiogroup" aria-label="Wygląd">
+      <button data-skin="graphite" class="on">Grafit</button>
+      <button data-skin="hardware">Sprzęt</button>
+      <button data-skin="paper">Papier</button>
+    </div>
+    <button class="help-btn" id="helpBtn" aria-label="Klawisze">Klawisze</button>
+  </header>
+
+  <section class="device" id="device">
+    <div class="display" id="display">
+      <div class="kitname">
+        <button class="arrow" id="kitPrev" aria-label="Poprzedni zestaw"><svg viewBox="0 0 16 16"><path d="M10 3 5 8l5 5"/></svg></button>
+        <div class="kit-text"><div class="name" id="kitName">Liquid</div><div class="key" id="kitKey">F minor</div></div>
+        <button class="arrow" id="kitNext" aria-label="Następny zestaw"><svg viewBox="0 0 16 16"><path d="m6 3 5 5-5 5"/></svg></button>
+      </div>
+      <canvas class="scope" id="scope" width="480" height="96"></canvas>
+      <div class="meters">
+        <div class="tempo"><button id="bpmDown" aria-label="Wolniej">−</button><span id="bpm">174</span><small>BPM</small><button id="bpmUp" aria-label="Szybciej">+</button></div>
+        <div class="pos"><span id="bar">1.1</span><div class="steps" id="steps"></div></div>
+      </div>
+      <div class="filter" id="filterMeter"><span></span></div>
+      <div class="status" id="status"></div>
+    </div>
+
+    <div class="banks" id="banks">
+      <div class="bank" data-bank="0">
+        <div class="bank-label">BĘBNY</div>
+        <div class="grid" id="grid0"></div>
+      </div>
+      <div class="bank" data-bank="1">
+        <div class="bank-label">BREAK · FX</div>
+        <div class="grid" id="grid1"></div>
+      </div>
+    </div>
+    <div class="bank-tabs" id="bankTabs">
+      <button data-show="0" class="on">Bębny</button>
+      <button data-show="1">Break · FX</button>
+    </div>
+
+    <div class="controls">
+      <button class="play" id="play"><svg viewBox="0 0 16 16" class="i-play"><path d="M4 2.5v11l9-5.5z"/></svg><svg viewBox="0 0 16 16" class="i-stop"><rect x="3.5" y="3.5" width="9" height="9" rx="1"/></svg><span>Start</span></button>
+      <div class="layers" id="layers">
+        <button data-layer="chords" class="on"><i></i>Akordy<kbd>T</kbd></button>
+        <button data-layer="bass" class="on"><i></i>Bas<kbd>Y</kbd></button>
+        <button data-layer="atmos" class="on"><i></i>Tło<kbd>G</kbd></button>
+        <button data-layer="guide"><i></i>Perka<kbd>H</kbd></button>
+      </div>
+      <button class="drop" id="drop">Breakdown<kbd>↵</kbd></button>
+      <button class="tp" id="tp"><i></i>Touchpad<kbd>Tab</kbd></button>
+      <div class="roll" id="roll"><span>ROLL</span><b id="rollRate">Shift 1/16 · ⌥ 1/32</b></div>
+    </div>
+  </section>
+
+  <nav class="kits" id="kits"></nav>
+  <footer class="hint" id="hint">Spacja start · ← → zestaw · ↑ ↓ filtr · Shift trzymany = roll · Enter drop</footer>
+</div>
+
+<div class="help" id="help" hidden>
+  <div class="help-card">
+    <h2>Klawisze</h2>
+    <div class="help-cols">
+      <div><h3>Bębny (lewa ręka)</h3><pre>1 2 3 4
+Q W E R
+A S D F
+Z X C V</pre></div>
+      <div><h3>Break · FX (prawa ręka)</h3><pre>7 8 9 0
+U I O P
+J K L ;
+M , . /</pre></div>
+    </div>
+    <ul>
+      <li><kbd>Spacja</kbd> start / stop podkładu</li>
+      <li><kbd>←</kbd> <kbd>→</kbd> zestaw</li>
+      <li><kbd>↑</kbd> <kbd>↓</kbd> trzymane: filtr (góra / dół)</li>
+      <li><kbd>Shift</kbd> trzymany: roll 1/16, <kbd>⌥</kbd>: roll 1/32</li>
+      <li><kbd>Enter</kbd> breakdown / drop na następnym takcie</li>
+      <li><kbd>T</kbd> <kbd>Y</kbd> <kbd>G</kbd> <kbd>H</kbd> akordy, bas, tło, perka</li>
+      <li><kbd>5</kbd> <kbd>6</kbd> tempo</li>
+      <li>Touchpad: przesuń dwoma palcami = filtr</li>
+    </ul>
+    <button id="helpClose">Zamknij</button>
+  </div>
+</div>
+<script type="module" src="src/main.js"></script>
+</body>
+</html>
